@@ -1,0 +1,9 @@
+# streamlit
+python-dotenv
+# streamlit_option_menu
+# streamlit_lottie
+load_dotenv
+crewai
+crewai_tools
+python-docx
+-e .
